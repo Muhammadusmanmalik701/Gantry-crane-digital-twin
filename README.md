@@ -25,7 +25,7 @@
 
 ## Project Overview
 
-This project simulates the **dynamic behavior of a gantry crane** — a system commonly used in shipping ports, warehouses, and construction sites to lift and transport heavy containers.
+A physics-based Digital Twin of a gantry crane trolley-pendulum system, developed as part of the **BIP (Blended Intensive Programme) International Research Project** in Digital Twin Systems — University of Bordeaux & University of Antwerp, Belgium (2026).
 
 The crane trolley moves horizontally along a fixed rail, and a container hangs from it via a rope. When a force is applied to the trolley, the container swings like a pendulum. This project:
 
