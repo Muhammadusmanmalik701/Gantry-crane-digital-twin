@@ -1,5 +1,6 @@
 # Gantry Crane Trolley-Pendulum System — Simulation & Animation using Modelica and Python
 
+<img width="1920" height="1200" alt="gantry_advanced_multi_view_animation" src="https://github.com/user-attachments/assets/dcb0e8f1-9f36-4360-94da-24265046c254" />
 ![Animation Preview](professional_pendulum_gantry_animation.gif)
 
 > A complete physics-based simulation of an overhead gantry crane with a suspended container (pendulum), modelled in **Modelica** and visualized in **Python**.
